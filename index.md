@@ -41,7 +41,7 @@ Inglês avançado (leitura, escrita e conversação).
 
 ## Experiência
 
-`1998-atualmente`
+`1998-...`
 
 **CEEE-T** – Concessionária de Transmissão de Energia Elétrica – RS
 
