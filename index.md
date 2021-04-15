@@ -17,7 +17,7 @@ Atuar no Setor Elétrico contribuindo para melhorar a eficiência operacional at
 
 Meu foco de trabalho é na elaboração de sistemas mais efetivos para operação de subestações, envolvendo Consciência Situacional, Centro de Controle e Subestação 4.0, integração horizontal de sistemas de TI/TO, transformação digital corporativa, e novas arquiteturas para sistemas SCADA.
 
-## Resumo das Qualificações
+## Qualificações
 
 ### Humanas
 
@@ -39,7 +39,7 @@ Centros de Controle • Sistema SAGE/EMS • Automação de Subestações • Hi
 
 Inglês avançado (leitura, escrita e conversação).
 
-## Experiência Profissional
+## Experiência
 
 `1998-atualmente`
 
@@ -48,9 +48,8 @@ Inglês avançado (leitura, escrita e conversação).
 Engenheiro Eletrônico • Desenvolvedor • Arquiteto de sistemas supervisórios • Gerente da área de Sistemas de Supervisão por mais de 10 anos.
 
 Trabalhos recentes incluem:
-
-* Arquitetura, montagem e configuração do Centro de Controle Redundante Reserva (COR) e do Centro de Controle de Instalações (COI).
-* Implantação de IHMs de operação local para cerca de 70 subestações.
+Arquitetura, montagem e configuração do Centro de Controle Redundante Reserva (COR) e do Centro de Controle de Instalações (COI).
+Implantação de IHMs de operação local para cerca de 70 subestações.
 
 Participação e apresentação de trabalhos em diversos eventos do Setor Elétrico, tais como SNPTEE, SIMPASE, CENOCON, GUS e EDAO.
 
@@ -66,7 +65,7 @@ Engenheiro Eletrônico • Desenvolvimento de sistemas microcontrolados embutido
 
 Engenheiro de Projetos Eletrônicos • Pesquisador.
 
-## Formação Acadêmica
+## Formação
 
 `2019`
 
@@ -92,7 +91,7 @@ Programa de Pós-Graduação em Eng. Metalúrgica de dos Materiais - UFRGS
 
 Escola de Engenharia - UFRGS
 
-## Trabalhos publicados e apresentados
+## Publicações
 
 `2019`
 **Estudo da Aplicabilidade de Banco de Dados MongoDB como Núcleo de um Sistema SCADA** - Monografia de Conclusão de Curso Especialista em Big Data & Data Science. Resultou no projeto do sistema JSON-SCADA.
@@ -111,7 +110,7 @@ Escola de Engenharia - UFRGS
 
 * _Publicações, entre outras, disponíveis no perfil do Linkedin._
 
-## Projetos Open Source
+## Projetos _Open Source_
 
 **JSON-SCADA** – Sistema SCADA/IoT de geração 4.0.
 
