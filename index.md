@@ -107,7 +107,7 @@ Escola de Engenharia - UFRGS
 `2002`
 **Integração do SCADA à Rede Corporativa da CEEE** – SIMPASE. Resultado prático: implantação do Portal de Supervisão na Intranet corporativa da CEEE.
 
-* _Publicações disponíveis no perfil do Linkedin._
+* _Publicações, entre outras, disponíveis no perfil do Linkedin._
 
 ## Projetos Open Source
 
@@ -117,6 +117,6 @@ Escola de Engenharia - UFRGS
 
 **QTester104** – Testador do protocolo IEC 60870-5-104.
 
-* _Projetos disponíveis em https://github.com/riclolsen?tab=repositories_
+* _Projetos, entre outros, disponíveis em https://github.com/riclolsen?tab=repositories_
  
 <!-- ### Footer Atualizado em Maio/21 -->
