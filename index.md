@@ -5,7 +5,9 @@ title: CV - Ricardo Lastra Olsen
 # Ricardo Lastra Olsen
 Eng. Eletricista, _Expert_ em sistemas supervisórios.
 
+<div id="webaddress">
 {{site.dadospessoais}}
+</div>
 
 ## Objetivo Profissional
 
