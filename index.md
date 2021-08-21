@@ -118,6 +118,6 @@ Escola de Engenharia - UFRGS
 
 **QTester104** – Testador do protocolo IEC 60870-5-104.
 
-\* _Projetos, entre outros, disponíveis em https://github.com/riclolsen?tab=repositories_
+\* _Projetos, entre outros, disponíveis em https://github.com/riclolsen_
  
 <!-- ### Footer Atualizado em Maio/21 -->
