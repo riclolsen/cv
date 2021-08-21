@@ -27,7 +27,7 @@ _Team Player_ • Inovação • Liderança • Visão.
 
 Centros de Controle • Sistema SAGE/EMS • Automação de Subestações • Historiadores •  Segurança Cibernética.
 
-**Protocolos**: ICCP • IEC60870-5-104/101 • DNP3 • OPC • MQTT.
+**Protocolos**: ICCP • IEC60870-5-104/101 • DNP3 • OPC • MQTT • Sparkplug.
 
 **Programação**: C/C++ • C# • NodeJS • Go • HTML5 • QT • SQL • PHP.
 
