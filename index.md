@@ -21,7 +21,7 @@ Meu foco de trabalho é na elaboração de sistemas mais efetivos para operaçã
 
 ### Humanas
 
-_Team Player_ • Inovação • Liderança • Gestão de Equipes.
+_Team Player_ • Inovação • Liderança • Visão.
 
 ### Técnicas
 
