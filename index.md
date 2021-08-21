@@ -3,7 +3,7 @@ layout: cv
 title: CV - Ricardo Lastra Olsen
 ---
 # Ricardo Lastra Olsen
-Eng. Eletricista, _Expert_ em sistemas supervisórios.
+Eng. Eletricista, _expert_ em sistemas supervisórios.
 
 <div id="webaddress">
 {{site.dadospessoais}}
@@ -48,7 +48,7 @@ Inglês avançado (leitura, escrita e conversação).
 Engenheiro Eletrônico • Desenvolvedor • Arquiteto de sistemas supervisórios • Gerente da área de Sistemas de Supervisão por mais de 10 anos.
 
 Trabalhos recentes incluem:
-Arquitetura, montagem e configuração do Centro de Controle Redundante Reserva (COR) e do Centro de Controle de Instalações (COI).
+Arquitetura, montagem e configuração do Centro de Controle Redundante Reserva (COR) e do Centro de Operação da Transmissão (COT).
 Implantação de IHMs de operação local para cerca de 70 subestações.
 
 Participação e apresentação de trabalhos em diversos eventos do Setor Elétrico, tais como SNPTEE, SIMPASE, CENOCON, GUS e EDAO.
