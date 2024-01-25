@@ -55,7 +55,7 @@ Recent works include: Implementation of the new Control Center of Transmission O
 
 **MCCS Project - 50 Hertz / Elia Group** - Germany - https://www.mccs-gridcontrol.com/en/about-mccs
 
-Contributed with the 50Hertz’s Modular Control Centre System, world's most innovative SCADA/EMS system. Worked with CGMES/CIM models processing for the automatization of online diagrams. Delivered the UI layer of SVG graphics realtime animations.
+Contributed with the 50Hertz’s Modular Control Centre System, world's most innovative SCADA/EMS system. Worked with CGMES/CIM models processing for the automated production of one-line diagrams. Delivered the UI layer of SVG graphics realtime animations.
 
 `1998-2021`
 
