@@ -41,14 +41,28 @@ Inglês avançado (leitura, escrita e conversação).
 
 ## Experiência
 
-`1998-...`
+`2021-...`
+
+**CPFL-T** – Concessionária de Transmissão de Energia Elétrica – RS
+
+Engenheiro de SCADA • Desenvolvedor
+
+Trabalhos recentes incluem: implantação do Centro de Operação da Transmissão (COT-SLE) e respectivo portal de Instranet. Sistema de Gerenciamento da Base Fonte de Supervisão (automatização da manutenção da configuração dos sistemas supervisórios: 3 centros de controle / 80 IHMs de subestações / 2 portais corporativos). 
+
+`2021-2022`
+
+**Projeto MCCS - 50 Hertz / Elia Group** - Alemanha - https://www.mccs-gridcontrol.com/en/about-mccs
+
+Contribuição no projeto "Modular Control Centre System - MCCS ", um sistema SCADA/EMS de ponta em nível global. Desenvolvimento da automação da criação de diagramas unifilares a partir de modelos CGMES/CIM. Fornecimento da camada de _User Interface_ para animações SCADA em tempo real com gráficos SVG.
+
+`1998-2021`
 
 **CEEE-T** – Concessionária de Transmissão de Energia Elétrica – RS
 
 Engenheiro Eletrônico • Desenvolvedor • Arquiteto de sistemas supervisórios • Gerente da área de Sistemas de Supervisão por mais de 10 anos.
 
-Trabalhos recentes incluem:
-Arquitetura, montagem e configuração do Centro de Controle Redundante Reserva (COR) e do Centro de Operação da Transmissão (COT).
+Trabalhos importantes incluem:
+Arquitetura, montagem e configuração do Centro de Controle Redundante Reserva (COR) e do Centro de Operação de Instalações (COI) e diversos outros centros regionais de telecomando.
 Implantação de IHMs de operação local para cerca de 70 subestações.
 
 Participação e apresentação de trabalhos em diversos eventos do Setor Elétrico, tais como SNPTEE, SIMPASE, CENOCON, GUS e EDAO.
