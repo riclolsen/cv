@@ -31,7 +31,7 @@ Centros de Controle • Sistema SAGE/EMS • Automação de Subestações • Hi
 
 **Programação**: C/C++ • C# • NodeJS • Go • HTML5 • QT • SQL • PHP.
 
-**Plataformas**: Windows • Linux • Computação em Nuvem AWS/AZURE/GCP • Containers • Virtualização.
+**Plataformas**: Windows • Linux • Computação em Nuvem AWS/AZURE/GCP/ORACLE • Containers • Virtualização.
 
 **Outras**: Data Science • Big Data • MongoDB • MS Office/Power BI.
 
@@ -134,4 +134,4 @@ Escola de Engenharia - UFRGS
 
 \* _Projetos, entre outros, disponíveis em https://github.com/riclolsen_
  
-<!-- ### Footer Atualizado em Maio/21 -->
+<!-- ### Footer Atualizado em fev/24 -->
