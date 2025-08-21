@@ -47,7 +47,7 @@ Inglês avançado (leitura, escrita e conversação).
 
 Engenheiro de Transmissão / SCADA • Desenvolvedor
 
-Trabalhos recentes incluem: implantação do Centro de Operação da Transmissão (COT-SLE) e respectivo portal de Instranet. Sistema de Gerenciamento da Base Fonte de Supervisão (automatização da manutenção da configuração dos sistemas supervisórios: 3 centros de controle / 80 IHMs de subestações / 2 portais corporativos). 
+Trabalhos recentes incluem: implantação do Centro de Operação da Transmissão (COT-SLE) e respectivo portal de Intranet. Sistema de Gerenciamento da Base Fonte de Supervisão (automatização da manutenção da configuração dos sistemas supervisórios: 3 centros de controle / 80 IHMs de subestações / 2 portais corporativos). 
 
 `2021-2022`
 
