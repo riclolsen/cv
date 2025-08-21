@@ -43,7 +43,13 @@ Portuguese: native.
 
 ## Experience
 
-`2021-...`
+`2024-...` - ICV SCADA - Abu Dahbi - UAE
+
+SCADA Cybersecurity Developer - Remote, Part-Time
+
+Custom developments of cybersecurity SCADA projects. Post-quantum cryptography. Data diode adapters for communication protocols.
+
+`2021-2024`
 
 **CPFL-T** – Electric Power Transmission Utility - Porto Alegre - Brazil
 
