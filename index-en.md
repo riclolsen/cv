@@ -15,7 +15,7 @@ To work in the Electrical Sector contributing to improving operational efficienc
 
 ### Areas of Expertise
 
-My focus is on developing more effective systems for substation operation, involving Situational Awareness, Control Center, Substation 4.0, horizontal integration of IT/OT systems, corporate digital transformation, and new architectures for SCADA systems.
+My focus is on developing more effective systems for substation operation, involving Situational Awareness, Control Center, Substation 4.0, horizontal integration of IT/OT systems, corporate digital transformation, cybersecurity, and new architectures for SCADA systems.
 
 ## Qualifications
 
@@ -25,11 +25,11 @@ Team Player • Innovation • Leadership • Vision.
 
 ### Technical Skills
 
-**Main Fields**: Control Centers • SCADA/EMS Systems • Substation Automation • Historians • Cybersecurity.
+**Main Fields**: Control Centers • SCADA/EMS Systems • Substation Automation • Historians • Protocols • Cybersecurity.
 
 **Communication Protocols**: Protocols: ICCP • IEC60870-5-104/101 • DNP3 • OPC • MQTT • Sparkplug.
 
-**Programming**: C/C++ • C# • NodeJS • Go • HTML5 • QT • SQL • PHP.
+**Programming**: C/C++ • C# • NodeJS/Javascript • Go • HTML • QT • SQL • PHP.
 
 **Platforms**: Windows • Linux • Cloud Computing AWS/AZURE/GCP/Oracle • Containers • Virtualization.
 
@@ -139,4 +139,4 @@ School of Engineering - UFRGS
 
 \* _Projects, among others, available at https://github.com/riclolsen_
  
-<!-- ### Footer Updated Feb 2024 -->
+<!-- ### Footer Updated Aug 2025 -->
