@@ -3,7 +3,7 @@ layout: cv
 title: CV - Ricardo Lastra Olsen
 ---
 # Ricardo Lastra Olsen
-Electrical Engineer, expert in supervisory systems (SCADA) for the Electrical Power Grid.
+SCADA Software Engineer/Developer, Electrical Engineer, MEng. Expert in supervisory systems (SCADA) for the Electrical Power Grid.
 
 <div id="webaddress">
 {{site.dadospessoais}}
@@ -15,7 +15,7 @@ To work in the Electrical Sector contributing to improving operational efficienc
 
 ### Areas of Expertise
 
-My focus is on developing more effective systems for substation operation, involving Situational Awareness, Control Center, Substation 4.0, horizontal integration of IT/OT systems, corporate digital transformation, cybersecurity, and new architectures for SCADA systems.
+My focus is on developing more effective systems for substation operation, involving Situational Awareness, OT communication protocols, Control Center, Substation 4.0, integration of IT/OT systems, corporate digital transformation, cybersecurity/PQC, and new architectures for SCADA systems.
 
 ## Qualifications
 
@@ -27,7 +27,7 @@ Team Player • Innovation • Leadership • Vision.
 
 **Main Fields**: Control Centers • SCADA/EMS Systems • Substation Automation • Historians • Protocols • Cybersecurity.
 
-**Communication Protocols**: Protocols: ICCP • IEC60870-5-104/101 • DNP3 • OPC • MQTT • Sparkplug.
+**Communication Protocols**: Protocols: ICCP • IEC61850 • IEC60870-5-104/101 • DNP3 • OPC • MQTT • Sparkplug • etc.
 
 **Programming**: C/C++ • C# • NodeJS/Javascript • Go • HTML • QT • SQL • PHP.
 
@@ -43,7 +43,13 @@ Portuguese: native.
 
 ## Experience
 
-`2024-...` - ICV SCADA - Abu Dahbi - UAE
+`2025-...` - Centrii - London - UK - https://centrii.com
+
+SCADA Cybersecurity Developer - Remote, Part-Time
+
+Custom developments of cybersecurity/protocols SCADA projects.
+
+`2024-...` - Autonexa AI - Abu Dahbi - UAE - https://autonexa.ai/
 
 SCADA Cybersecurity Developer - Remote, Part-Time
 
@@ -139,4 +145,4 @@ School of Engineering - UFRGS
 
 \* _Projects, among others, available at https://github.com/riclolsen_
  
-<!-- ### Footer Updated Aug 2025 -->
+<!-- ### Footer Updated Jun 2026 -->
