@@ -115,25 +115,26 @@ Electrical Projects Engineer • Researcher.
 
 **Postgraduate** – Big Data and Data Science
 
-Postgraduate Program in Computer Science - PGCC/UFRGS
+Postgraduate Program in Computer Science - PGCC/UFRGS - Porto Alegre - Brazil
 
 `2005`
 
 **Extension** – Executive Management
 
-Department of Administrative Sciences/Business School - UFRGS
+Department of Administrative Sciences/Business School - UFRGS - Porto Alegre - Brazil
 
 `1992`
 
 **Master’s Degree** – Electrical and Electronic Instrumentation
 
-Postgraduate Program in Metallurgical Engineering and Materials - PPGEMM/UFRGS
+Postgraduate Program in Metallurgical Engineering and Materials - PPGEMM/UFRGS - Porto Alegre - Brazil
+
 
 `1990`
 
 **Bachelor’s Degree** – Electrical Engineering
 
-School of Engineering - UFRGS
+School of Engineering - UFRGS - Porto Alegre - Brazil
 
 ## Publications
 
