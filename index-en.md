@@ -2,114 +2,127 @@
 layout: cv
 title: CV - Ricardo Lastra Olsen
 ---
-# Ricardo Lastra Olsen
-SCADA Software Engineer/Developer, Electrical Engineer, MEng. Expert in supervisory systems (SCADA) for the Electrical Power Grid.
+**# Ricardo Lastra Olsen** • [https://www.linkedin.com/in/ricardo-olsen/](https://www.linkedin.com/in/ricardo-olsen/)
+
+Senior SCADA Software Engineer/Developer, Electrical Engineer, MEng. Specialist in Supervisory Control and Data Acquisition (SCADA) systems for electric power grids and industrial applications.
 
 <div id="webaddress">
 {{site.dadospessoais}}
 </div>
 
-## Professional Objective
+**## Professional Objective**
 
-To work in the Electrical Sector contributing to improving operational efficiency through innovation in computer systems.
+To contribute to the automation sector by developing innovative software solutions that improve operational efficiency, system reliability, and digital integration.
 
-### Areas of Expertise
+**### Areas of Expertise**
 
-My focus is on developing more effective systems for substation operation, involving Situational Awareness, OT communication protocols, Control Center, Substation 4.0, integration of IT/OT systems, corporate digital transformation, cybersecurity/PQC, and new architectures for SCADA systems.
+My expertise focuses on developing advanced automation and supervisory systems, with an emphasis on situational awareness, OT communication protocols, control centers, substation automation, Industry 4.0, IT/OT integration, enterprise digital transformation, cybersecurity, post-quantum cryptography (PQC), and AI-ready SCADA architectures.
 
-## Qualifications
+**## Qualifications**
 
-### Soft Skills
+**### Soft Skills**
 
-Team Player • Innovation • Leadership • Vision.
+Teamwork • Innovation • Leadership • Strategic Vision.
 
-### Technical Skills
+**### Technical Skills**
 
-**Main Fields**: Control Centers • SCADA/EMS Systems • Substation Automation • Historians • Protocols • Cybersecurity.
+**Main Fields**: Control Centers • SCADA/EMS Systems • Artificial Intelligence • Substation Automation • Data Historians • Communication Protocols • Cybersecurity.
 
-**Communication Protocols**: Protocols: ICCP • IEC61850 • IEC60870-5-104/101 • DNP3 • OPC • MQTT • Sparkplug • etc.
+**Communication Protocols**: ICCP • IEC 61850 • IEC 60870-5-104/101 • DNP3 • OPC • MQTT • Sparkplug • Others.
 
-**Programming**: C/C++ • C# • NodeJS/Javascript • Go • HTML • QT • SQL • PHP.
+**Programming**: C/C++ • C# • Node.js/JavaScript • Go • HTML • Qt • SQL • PHP.
 
-**Platforms**: Windows • Linux • Cloud Computing AWS/AZURE/GCP/Oracle • Containers • Virtualization.
+**Platforms**: Windows • Linux • Cloud Computing (AWS/Azure/GCP/Oracle) • Containers • Virtualization.
 
-**Other**: Data Science • Big Data • MongoDB • MS Office/Power BI.
+**Other**: Data Science • Big Data • MongoDB • Microsoft Office/Power BI.
 
-### Idioms
+**### Languages**
 
-English: advanced (reading, writing, and conversation).
+English: Advanced proficiency (reading, writing, and speaking).
 
-Portuguese: native.
+Portuguese: Native.
 
-## Experience
+**## Experience**
 
-`2025-...` - Centrii - London - UK - https://centrii.com
+`2025-...`
 
-SCADA Cybersecurity Developer - Remote, Part-Time
-
-Custom developments of cybersecurity/protocols SCADA projects.
-
-`2024-...` - Autonexa AI - Abu Dahbi - UAE - https://autonexa.ai/
+**Centrii** - London - UK - [https://centrii.com](https://centrii.com)
 
 SCADA Cybersecurity Developer - Remote, Part-Time
 
-Custom developments of cybersecurity SCADA projects. Post-quantum cryptography. Data diode adapters for communication protocols.
+Development of customized SCADA cybersecurity solutions, including communication protocol integration and security enhancements.
+
+`2024-...`
+
+**Autonexa AI** - Abu Dhabi - UAE - [https://autonexa.ai/](https://autonexa.ai/)
+
+SCADA Cybersecurity Developer - Remote, Part-Time
+
+Development of customized cybersecurity solutions for SCADA environments, including post-quantum cryptography and data diode adapters for industrial communication protocols.
+
+`2024-...`
+
+**DSC Systems** - Porto Alegre - Brazil - [https://dscsys.com/](https://dscsys.com/)
+
+Self-employed • Freelance Software Developer • Open-Source Developer.
+
+Development and consulting in SCADA systems, cybersecurity, industrial automation, and communication protocols.
 
 `2021-2024`
 
 **CPFL-T** – Electric Power Transmission Utility - Porto Alegre - Brazil
 
-SCADA Engineer • Developer • Supervisory Systems Architect
+SCADA Engineer • Software Developer • Supervisory Systems Architect
 
-Recent works include: Implementation of the new Control Center of Transmission Operation (COT-SLE) with respective Intranet Supervisory Portal. Source Database Management System for the company's SCADA grid (automation of SCADA systems configuration: 3 control centers / 80 substations / 2 web portals). 
+Implemented the new Transmission Operations Control Center (COT-SLE) and its associated intranet supervisory portal. Developed and maintained a centralized source database management system for the company's SCADA infrastructure, automating system configuration across three control centers, 80 substations, and two web portals.
 
 `2021-2022`
 
-**MCCS Project - 50 Hertz / Elia Group** - Germany - https://www.mccs-gridcontrol.com/en/about-mccs
+**MCCS Project - 50Hertz / Elia Group** - Germany - [https://www.mccs-gridcontrol.com/en/about-mccs](https://www.mccs-gridcontrol.com/en/about-mccs)
 
-Developer
+Software Developer
 
-Contributed with the 50Hertz’s Modular Control Centre System, world's most innovative SCADA/EMS system. Worked with CGMES/CIM models processing for the automated production of one-line diagrams. Delivered the UI layer of SVG graphics realtime animations.
+Contributed to 50Hertz's Modular Control Centre System (MCCS), an innovative SCADA/EMS platform. Worked on processing CGMES/CIM models to automate the generation of single-line diagrams. Developed the user interface layer for real-time SVG graphics animation.
 
 `1998-2021`
 
 **CEEE-T** – Electric Power Transmission Utility - Porto Alegre - Brazil
 
-Electrical Engineer • Developer • Supervisory Systems Architect • Manager of the Supervision Systems area for over 10 years.
+Electrical Engineer • Software Developer • Supervisory Systems Architect • Supervisory Systems Manager for over 10 years.
 
-Recent works include: Architecture, assembly, and configuration of various control centers for substation remote operation. Implementation of local operation HMIs for about 80 substations.
+Designed, implemented, and configured multiple control centers for remote substation operation. Developed and deployed local Human-Machine Interfaces (HMIs) for approximately 80 substations.
 
-Participation and presentation at various events in the Brazilian Electrical Sector, such as SNPTEE, SIMPASE, CENOCON, and EDAO.
+Participated in and presented technical papers at major Brazilian electric power industry conferences, including SNPTEE, SIMPASE, CENOCON, and EDAO.
 
 `1995-1998`
 
-**Metrixer Automation and Informatics S.A.** – Manufacturer of automation machinery for the leather-footwear industry. - Novo Hamburgo - Brazil
+**Metrixer Automation and Informatics S.A.** – Manufacturer of automation machinery for the leather and footwear industry - Novo Hamburgo - Brazil
 
-Electrical Engineer • Development of embedded microcontrolled systems, robotics.
+Electrical Engineer • Developer of embedded microcontroller-based systems and industrial robotics solutions.
 
 `1992-1995`
 
-**Federal University of Rio Grande do Sul – UFRGS** – UFRGS - Porto Alegre - Brazil
+**Federal University of Rio Grande do Sul – UFRGS** - Porto Alegre - Brazil
 
 Electrical Projects Engineer • Researcher.
 
-## Education
+**## Education**
 
 `2019`
 
-**Postgraduate**  – Big Data and Data Science
+**Postgraduate** – Big Data and Data Science
 
 Postgraduate Program in Computer Science - PGCC/UFRGS
 
 `2005`
 
-**Extension** – Management for Executives
+**Extension** – Executive Management
 
 Department of Administrative Sciences/Business School - UFRGS
 
 `1992`
 
-**Master’s Degree** – Electro-electronic Instrumentation
+**Master’s Degree** – Electrical and Electronic Instrumentation
 
 Postgraduate Program in Metallurgical Engineering and Materials - PPGEMM/UFRGS
 
@@ -119,30 +132,32 @@ Postgraduate Program in Metallurgical Engineering and Materials - PPGEMM/UFRGS
 
 School of Engineering - UFRGS
 
-## Publications
+**## Publications**
 
 `2019`
-**Applicability Study of MongoDB Database as the Core of a SCADA System** - Specialist in Big Data & Data Science Course Completion Monograph. Resulted in the JSON-SCADA system project.
+
+**Applicability Study of MongoDB Database as the Core of a SCADA System** - Postgraduate course completion monograph in Big Data and Data Science. This research led to the development of the JSON-SCADA open-source project.
 
 `2019`
-**Manager System of the Source Base of CEEE-GT Supervision and Control Systems** - Second-best work in the Protection, Control, and Automation Group of the XXIV SNPTEE. Practical result: system used in CEEE/CPFL-T for more efficient and quality management of SCADA system configurations.
+
+**Manager System of the Source Base of CEEE-GT Supervision and Control Systems** - Awarded second place in the Protection, Control, and Automation Study Group at the XXIV SNPTEE. Practical outcome: a system deployed at CEEE/CPFL-T to improve the efficiency, consistency, and quality of SCADA configuration management.
 
 `2017`
-**Tools to Support the Recomposition of Transmission Substations at CEEE-GT** - XXIV SNPTEE. Practical result: System implemented at CEEE-T's COI.
+
+**Tools to Support the Recomposition of Transmission Substations at CEEE-GT** - XXIV SNPTEE. Practical outcome: a system implemented at CEEE-T's Integrated Operations Center (COI).
 
 `2015`
-**Application of "High-Performance HMI" and "Situation Awareness" Concepts in CEEE-GT's Operation** - Awarded as the best work of the Electric Systems Operation Study Group of the XXIII SNPTEE. Practical results: implementation in COI/COR and 70 substations of CEEE-T, improvement in the quality of the Power System Operation.
 
-\* _Publications, among others, available on the LinkedIn profile._
+**Application of "High-Performance HMI" and "Situation Awareness" Concepts in CEEE-GT's Operation** - Awarded best paper in the Electric Power System Operation Study Group at the XXIII SNPTEE. Practical outcomes included deployment at CEEE-T's COI/COR control centers and 70 substations, contributing to improved power system operational performance.
 
-## Open Source Projects
+\* _Additional publications are available on my LinkedIn profile._
 
-**JSON-SCADA** – Next generation SCADA/IoT System.
+**## Open Source Projects**
 
-**OSHMI** – Open Substation HMI – HMI for substations.
+**JSON-SCADA** – Next-generation AI-Ready SCADA/IoT/EMS platform. Lead developer.
 
-**QTester104** – Tester of the IEC 60870-5-104 protocol.
+**OSHMI** – Open Substation HMI – An open-source Human-Machine Interface for electrical substations. Lead developer.
 
-\* _Projects, among others, available at https://github.com/riclolsen_
- 
-<!-- ### Footer Updated Jun 2026 -->
+\* _Additional projects are available at [https://github.com/riclolsen](https://github.com/riclolsen)._
+
+<!-- ### Footer Updated Nov 2026 -->
