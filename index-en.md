@@ -2,29 +2,32 @@
 layout: cv
 title: CV - Ricardo Lastra Olsen
 ---
-**# Ricardo Lastra Olsen** • [https://www.linkedin.com/in/ricardo-olsen/](https://www.linkedin.com/in/ricardo-olsen/)
+
+# Ricardo Lastra Olsen
 
 Senior SCADA Software Engineer/Developer, Electrical Engineer, MEng. Specialist in Supervisory Control and Data Acquisition (SCADA) systems for electric power grids and industrial applications.
+
+[https://www.linkedin.com/in/ricardo-olsen/](https://www.linkedin.com/in/ricardo-olsen/)
 
 <div id="webaddress">
 {{site.dadospessoais}}
 </div>
 
-**## Professional Objective**
+## Professional Objective
 
 To contribute to the automation sector by developing innovative software solutions that improve operational efficiency, system reliability, and digital integration.
 
-**### Areas of Expertise**
+### Areas of Expertise
 
 My expertise focuses on developing advanced automation and supervisory systems, with an emphasis on situational awareness, OT communication protocols, control centers, substation automation, Industry 4.0, IT/OT integration, enterprise digital transformation, cybersecurity, post-quantum cryptography (PQC), and AI-ready SCADA architectures.
 
-**## Qualifications**
+## Qualifications
 
-**### Soft Skills**
+### Soft Skills
 
 Teamwork • Innovation • Leadership • Strategic Vision.
 
-**### Technical Skills**
+### Technical Skills
 
 **Main Fields**: Control Centers • SCADA/EMS Systems • Artificial Intelligence • Substation Automation • Data Historians • Communication Protocols • Cybersecurity.
 
@@ -36,13 +39,13 @@ Teamwork • Innovation • Leadership • Strategic Vision.
 
 **Other**: Data Science • Big Data • MongoDB • Microsoft Office/Power BI.
 
-**### Languages**
+### Languages
 
 English: Advanced proficiency (reading, writing, and speaking).
 
 Portuguese: Native.
 
-**## Experience**
+## Experience
 
 `2025-...`
 
@@ -106,7 +109,7 @@ Electrical Engineer • Developer of embedded microcontroller-based systems and 
 
 Electrical Projects Engineer • Researcher.
 
-**## Education**
+## Education
 
 `2019`
 
@@ -132,7 +135,7 @@ Postgraduate Program in Metallurgical Engineering and Materials - PPGEMM/UFRGS
 
 School of Engineering - UFRGS
 
-**## Publications**
+## Publications
 
 `2019`
 
@@ -152,7 +155,7 @@ School of Engineering - UFRGS
 
 \* _Additional publications are available on my LinkedIn profile._
 
-**## Open Source Projects**
+### Open Source Projects
 
 **JSON-SCADA** – Next-generation AI-Ready SCADA/IoT/EMS platform. Lead developer.
 
